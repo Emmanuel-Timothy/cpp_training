@@ -10,7 +10,7 @@ int main(){
     cout << "Enter operator: ";
     cin >> op;
     cout << "Enter second number: ";
-    cin >> num1;
+    cin >> num2;
     double result;
     if (op == '+'){
         result = num1 + num2;
